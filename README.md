@@ -9,7 +9,7 @@ Interactive Power BI Dashboard analyzing BlinkIt sales performance and customer 
 Developed an interactive Power BI dashboard to analyze BlinkIt's sales performance and customer reviews. The dashboard enables dynamic exploration of sales trends, product-wise performance, and user sentiment across regions and time periods.
 
 ### 🧠 Key Highlights  
-- Utilized **Power Query** for data cleaning and transformation  
+- Utilized **Power Query** for data cleaning and transformation 
 - Built **data models** with star schema for optimized reporting  
 - Applied **DAX functions** for KPIs like Revenue, Average Rating, and Growth %  
 - Integrated **interactive visuals** like slicers, drill-throughs, and tooltips  
